@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelgo also go by Ranya</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
-https://github.com/drkelgo485/drkelgo485/blob/main/images/cool-gif.gif
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
