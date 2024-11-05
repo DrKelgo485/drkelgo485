@@ -20,6 +20,6 @@
 # ⚡ Stats ⚡
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkelgo485&show_icons=true&locale=en&layout=compact" alt="drkelgo485" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkelgo485&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkelgo485&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DrKelgo485)](https://git.io/streak-stats)
