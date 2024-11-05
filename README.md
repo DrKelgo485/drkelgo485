@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kelgo also go by Ranya</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
 
+![My cool GIF](https://github.com/drkelgo485/drkelgo485/blob/main/p![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/user-attachments/assets/20f939b2-20e4-4488-8903-e785d9b1005b)
+ath/to/your-gif.gif?raw=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
 - 🔭 I’m currently working on [Mewitsu Ai](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
