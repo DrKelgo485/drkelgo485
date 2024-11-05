@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelgo also go by Ranya</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
-<img align="right" alt="Coding" width="800" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"
+<img align="right" alt="Coding" width="820" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
