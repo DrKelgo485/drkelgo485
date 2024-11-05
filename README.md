@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelgo also go by Ranya</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/user-attachments/assets/8ddecbe1-c07a-4a5b-98ef-b04e2b1e40bd)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
