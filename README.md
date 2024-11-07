@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my repositories are available at [https://github.com/DrKelgo485?tab=repositories](https://github.com/DrKelgo485?tab=repositories)
 
-- 📫 How to reach me **eickjames21@gmail.com**
+- 📧 How to reach me **eickjames21@gmail.com**
 
 
 
