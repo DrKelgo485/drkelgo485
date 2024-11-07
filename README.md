@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [![Mewitsu AI](https://img.shields.io/badge/GitHub-Mewitsu%20AI-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
-- 👯 I’m looking to collaborate on [Mewitsu Ai](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
+- 👯 I’m looking to collaborate on I’m looking to collaborate on [![Mewitsu AI](https://img.shields.io/badge/Collaborate-Mewitsu%20AI-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
 - 👨‍💻 All of my repositories are available at [https://github.com/DrKelgo485?tab=repositories](https://github.com/DrKelgo485?tab=repositories)
 
