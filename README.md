@@ -10,7 +10,7 @@
 
 - 👨‍💻All of my repositories are available at [![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485?tab=repositories)
 
-- 📧 You can reach me at [![Gmail](https://img.shields.io/badge/Email-eickjames21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eickjames21@gmail.com)
+- 📧 Contact me at [![Gmail](https://img.shields.io/badge/Email-eickjames21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eickjames21@gmail.com)
 
 
 
