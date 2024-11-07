@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on I’m looking to collaborate on [![Mewitsu AI](https://img.shields.io/badge/Collaborate-Mewitsu%20AI-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
-- 👨‍💻 All of my repositories are available at [https://github.com/DrKelgo485?tab=repositories](https://github.com/DrKelgo485?tab=repositories)
+- 👨‍💻All of my repositories are available at [![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485?tab=repositories)
 
 - 📧 How to reach me **eickjames21@gmail.com**
 
