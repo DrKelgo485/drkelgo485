@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
-- 🔭 I’m currently working on [Mewitsu Ai](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
+- 🔭 I’m currently working on [![Mewitsu AI](https://img.shields.io/badge/GitHub-Mewitsu%20AI-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
 - 👯 I’m looking to collaborate on [Mewitsu Ai](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
