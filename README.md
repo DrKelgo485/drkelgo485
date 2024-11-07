@@ -20,7 +20,7 @@
 
 # ⚡stats⚡
 
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/950c70_eb49b9b040b14b70972c9777d736f7ea~mv2_d_2112_2112_s_2.gif">
+<img align="right" alt="Coding" width="370" src="https://static.wixstatic.com/media/950c70_eb49b9b040b14b70972c9777d736f7ea~mv2_d_2112_2112_s_2.gif">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkelgo485&show_icons=true&locale=en&layout=compact" alt="drkelgo485" /></p>
 
