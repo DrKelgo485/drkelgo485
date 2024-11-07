@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Mewitsu Ai](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DrKelgo485?tab=repositories](https://github.com/DrKelgo485?tab=repositories)
+- 👨‍💻 All of my respitories are available at [https://github.com/DrKelgo485?tab=repositories](https://github.com/DrKelgo485?tab=repositories)
 
 - 📫 How to reach me **eickjames21@gmail.com**
 
