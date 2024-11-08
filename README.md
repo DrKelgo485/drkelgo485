@@ -26,4 +26,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkelgo485&show_icons=true&theme=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drkelgo485)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=drkelgo485&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
