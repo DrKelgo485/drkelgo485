@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from the US</h3>
 <img align="right" alt="Coding" width="850" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkelgo485" alt="drkelgo485" /></a> </p>
 
 - 🔭 I’m currently working on [![Mewitsu AI](https://img.shields.io/badge/GitHub-Mewitsu%20AI-blue?logo=github&logoColor=white)](https://github.com/DrKelgo485/AI-Copilot-GPT-4o-Claude-3.5-Mew)
 
