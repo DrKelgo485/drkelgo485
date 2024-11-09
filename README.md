@@ -23,7 +23,7 @@
 <img align="right" alt="Coding" width="370" src="https://static.wixstatic.com/media/950c70_eb49b9b040b14b70972c9777d736f7ea~mv2_d_2112_2112_s_2.gif">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkelgo485&show_icons=true&locale=en&layout=compact&theme=white&card_width=440" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkelgo485&show_icons=true&locale=en&layout=compact&theme=white&card_width=450" alt="Top Languages" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkelgo485&show_icons=true&theme=white&icon_color=ff0000)
