@@ -30,4 +30,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=drkelgo485&show_icons=true&theme=white&card_width=460&icon_color=FF0000" alt="Anurag's GitHub stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drkelgo485)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drkelgo485&card_width=460)](https://git.io/streak-stats)
