@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=drkelgo485&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15" alt="drkelgo485" />
+    <img src="https://github-profile-trophy.vercel.app/?username=drkelgo485&theme=blue&no-frame=true&margin-w=15&margin-h=15" alt="drkelgo485" />
   </a>
 </p>
 
